@@ -1,25 +1,38 @@
 {
     "fb-locale": "es_ES",
     "translations": {
-        "2dcba29d4a842c6be5d76fe996fcd9f4": {
-            "tokens": [],
-            "types": [],
-            "translations": [
-                {
-                    "translation": "Primer paso",
-                    "variations": []
-                }
-            ]
-        },
-        "e379f5ddf643bc28c3a9db67b8f67155": {
-            "tokens": [],
-            "types": [],
-            "translations": [
-                {
-                    "translation": "Edite App.js para cambiar esta pantalla y luego vuelva a ver sus ediciones.",
-                    "variations": []
-                }
-            ]
-        }
+      "5837b49b37cf195a92e8bb15be810839": {
+        "tokens": [],
+        "types": [],
+        "translations": [
+          {
+            "translation": "Escanear código QR",
+            "id": 129877867,
+            "variations": {}
+          }
+        ]
+      },
+      "a6f6852d3f5270c727606337f176847d": {
+        "tokens": [],
+        "types": [],
+        "translations": [
+          {
+            "translation": "Se produjo un error al cargar los datos. Vuelve a intentarlo.",
+            "id": 145454363,
+            "variations": {}
+          }
+        ]
+      },
+      "6ec9f1cdc2782f7da5865d37bf5fabea": {
+        "tokens": [],
+        "types": [],
+        "translations": [
+          {
+            "translation": "Reintentar",
+            "id": 111204899,
+            "variations": {}
+          }
+        ]
+      },
     }
 }
