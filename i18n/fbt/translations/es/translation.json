@@ -1,38 +1,35 @@
 {
-    "fb-locale": "es",
+    "fb-locale": "es_ES",
     "translations": {
-      "5837b49b37cf195a92e8bb15be810839": {
-        "tokens": [],
-        "types": [],
-        "translations": [
-          {
-            "translation": "Escanear código QR",
-            "id": 129877867,
-            "variations": {}
-          }
-        ]
-      },
-      "a6f6852d3f5270c727606337f176847d": {
-        "tokens": [],
-        "types": [],
-        "translations": [
-          {
-            "translation": "Se produjo un error al cargar los datos. Vuelve a intentarlo.",
-            "id": 145454363,
-            "variations": {}
-          }
-        ]
-      },
-      "6ec9f1cdc2782f7da5865d37bf5fabea": {
-        "tokens": [],
-        "types": [],
-        "translations": [
-          {
-            "translation": "Reintentar",
-            "id": 111204899,
-            "variations": {}
-          }
-        ]
-      },
+        "5837b49b37cf195a92e8bb15be810839": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "Escanear código QR",
+                    "variations": []
+                }
+            ]
+        },
+        "a6f6852d3f5270c727606337f176847d": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "Se produjo un error al cargar los datos. Vuelve a intentarlo.",
+                    "variations": []
+                }
+            ]
+        },
+        "6ec9f1cdc2782f7da5865d37bf5fabea": {
+            "tokens": [],
+            "types": [],
+            "translations": [
+                {
+                    "translation": "Reintentar",
+                    "variations": []
+                }
+            ]
+        }
     }
 }
